@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0018-4sum) |
+| [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0018-4sum) |
+| [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
