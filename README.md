@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0330-patching-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0330-patching-array) |
 | [3620-network-recovery-pathways](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0330-patching-array) |
 ## Trie
 |  |
 | ------- |
