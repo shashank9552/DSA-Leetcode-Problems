@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0330-patching-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0010-regular-expression-matching) |
+| [1301-number-of-paths-with-max-score](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
