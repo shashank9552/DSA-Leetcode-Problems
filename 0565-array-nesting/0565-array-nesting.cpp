@@ -2,26 +2,25 @@ class Solution {
 public:
     int arrayNesting(vector<int>& nums) {
 
-        int n = nums.size();
-        vector<bool> visited(n, false);
-
         int ans = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < nums.size(); i++) {
 
-            if (visited[i])
+            if (nums[i] == -1)
                 continue;
 
-            int cnt = 0;
+            int count = 0;
             int curr = i;
 
-            while (!visited[curr]) {
-                visited[curr] = true;
-                curr = nums[curr];
-                cnt++;
+            while (nums[curr] != -1) {
+
+                int next = nums[curr];
+                nums[curr] = -1;
+                curr = next;
+                count++;
             }
 
-            ans = max(ans, cnt);
+            ans = max(ans, count);
         }
 
         return ans;
