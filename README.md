@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3379-transformed-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1146-snapshot-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0330-patching-array) |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
 | ------- |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
 | [1288-remove-covered-intervals](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -209,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
