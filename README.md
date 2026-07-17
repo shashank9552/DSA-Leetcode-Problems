@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [1146-snapshot-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1146-snapshot-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0384-shuffle-an-array) |
 | [0932-beautiful-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0932-beautiful-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [1146-snapshot-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1146-snapshot-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
@@ -245,10 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Design
 |  |
@@ -279,7 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
