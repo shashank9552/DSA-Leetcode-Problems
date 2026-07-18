@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0565-array-nesting) |
+| [0665-non-decreasing-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0665-non-decreasing-array) |
 | [0896-monotonic-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0896-monotonic-array) |
 | [0932-beautiful-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0932-beautiful-array) |
 | [1146-snapshot-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1146-snapshot-array) |
