@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0330-patching-array) |
 | [0384-shuffle-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0384-shuffle-an-array) |
+| [0457-circular-array-loop](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0565-array-nesting) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0457-circular-array-loop](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [1146-snapshot-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1146-snapshot-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0457-circular-array-loop](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
