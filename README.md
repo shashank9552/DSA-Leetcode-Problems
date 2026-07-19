@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0330-patching-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0384-shuffle-an-array) |
 | [0932-beautiful-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0932-beautiful-array) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [1301-number-of-paths-with-max-score](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
