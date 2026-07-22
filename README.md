@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0941-valid-mountain-array) |
+| [1122-relative-sort-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1146-snapshot-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1146-snapshot-array) |
 | [1260-shift-2d-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0457-circular-array-loop](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
+| [1122-relative-sort-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1146-snapshot-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1146-snapshot-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
