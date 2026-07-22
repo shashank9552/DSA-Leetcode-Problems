@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1122-relative-sort-array) |
+| [1124-longest-well-performing-interval](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1124-longest-well-performing-interval) |
 | [1146-snapshot-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1146-snapshot-array) |
 | [1260-shift-2d-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [1122-relative-sort-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1124-longest-well-performing-interval](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1124-longest-well-performing-interval) |
 | [1146-snapshot-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1146-snapshot-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1124-longest-well-performing-interval](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1124-longest-well-performing-interval) |
 ## Matrix
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
+| [1124-longest-well-performing-interval](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1124-longest-well-performing-interval) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Design
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1124-longest-well-performing-interval](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1124-longest-well-performing-interval) |
 ## Segment Tree
 |  |
 | ------- |
