@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0565-array-nesting) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0665-non-decreasing-array) |
 | [0896-monotonic-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0912-sort-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0384-shuffle-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0932-beautiful-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0932-beautiful-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
