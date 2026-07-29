@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1416-restore-the-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1416-restore-the-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1416-restore-the-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1416-restore-the-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
