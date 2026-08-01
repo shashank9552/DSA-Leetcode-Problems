@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0330-patching-array) |
 | [0384-shuffle-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0384-shuffle-an-array) |
 | [0457-circular-array-loop](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0457-circular-array-loop) |
+| [0486-predict-the-winner](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0565-array-nesting) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0384-shuffle-an-array) |
+| [0486-predict-the-winner](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0932-beautiful-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0932-beautiful-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0486-predict-the-winner](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1416-restore-the-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1416-restore-the-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -393,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
