@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0330-patching-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
