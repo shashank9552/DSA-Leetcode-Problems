@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 ## String
