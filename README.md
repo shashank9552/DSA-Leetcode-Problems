@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
