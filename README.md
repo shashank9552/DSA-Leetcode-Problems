@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1720-decode-xored-array) |
+| [1929-concatenation-of-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
