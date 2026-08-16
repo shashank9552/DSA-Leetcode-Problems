@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+| [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0932-beautiful-array) |
 | [1140-stone-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0330-patching-array) |
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1122-relative-sort-array) |
+| [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
 | ------- |
@@ -475,15 +480,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
