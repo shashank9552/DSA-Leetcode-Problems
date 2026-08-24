@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1720-decode-xored-array) |
+| [1872-stone-game-viii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0932-beautiful-array) |
 | [1140-stone-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1416-restore-the-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1416-restore-the-array) |
 | [1510-stone-game-iv](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [1124-longest-well-performing-interval](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1124-longest-well-performing-interval) |
 | [1140-stone-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Design
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Quicksort
@@ -499,12 +504,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
