@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0330-patching-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0877-stone-game) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [1260-shift-2d-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
