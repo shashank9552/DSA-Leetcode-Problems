@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0384-shuffle-an-array) |
 | [0486-predict-the-winner](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0877-stone-game) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
