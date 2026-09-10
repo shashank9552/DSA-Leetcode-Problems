@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0565-array-nesting](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/0565-array-nesting) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
@@ -532,10 +533,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashank9552/DSA-Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Game Theory
 |  |
 | ------- |
